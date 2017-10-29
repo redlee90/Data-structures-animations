@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Queue">
+        <menu>
+            <item
+                android:id="@+id/nav_queue_anim"
+                android:icon="@drawable/ic_movie_black_48dp"
+                android:title="Animation" />
+        </menu>
+    </item>
+
+    <item android:title="Doubly linked list">
+        <menu>
+            <item
+                android:id="@+id/nav_dll_anim"
+                android:icon="@drawable/ic_movie_black_48dp"
+                android:title="Animation" />
+        </menu>
+    </item>
+
+    <item android:title="Red-black tree">
+        <menu>
+            <item
+                android:id="@+id/nav_rb_anim"
+                android:icon="@drawable/ic_movie_black_48dp"
+                android:title="Animation" />
+        </menu>
+    </item>
+
+</menu>
